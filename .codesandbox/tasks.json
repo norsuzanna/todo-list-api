@@ -6,7 +6,7 @@
   "tasks": {
     "start": {
       "name": "start",
-      "command": "python main.py",
+      "command": "uvicorn main:app --reload",
       "runAtStart": true,
       "restartOn": {
         "files": ["main.py"]

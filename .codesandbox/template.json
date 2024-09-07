@@ -1,6 +1,6 @@
 {
-  "title": "Python",
-  "description": "The starter template of Python for CodeSandbox",
+  "title": "To Do List API",
+  "description": "The To-Do List API is a simple and efficient backend service built using FastAPI",
   "iconUrl": "https://raw.githubusercontent.com/codesandbox/sandbox-templates/main/python/.codesandbox/icon.png",
   "tags": ["python", "pip", "featured", "playground"],
   "published": true
